@@ -1,5 +1,5 @@
 # YouTube Music API
-A quick API for interacting with likes on YouTube Music
+A quick API for interacting with likes on YouTube Music. Meant for personal use only.
 
 ## Endpoint /likes
 ### GET
