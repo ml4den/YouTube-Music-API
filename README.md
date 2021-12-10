@@ -26,7 +26,7 @@ To [authenticate YTMusic](https://ytmusicapi.readthedocs.io/en/latest/setup.html
 2. Open Developer Tools and select the Network tab.
 3. Navigate to Library in your YouTube Music account.
 4. Find an authenticated POST request. Filtering for `browse?key=` is a good option.
-5. Copy the relevant headers to the JSON template shown in the next section.
+5. Copy the relevant request headers to the JSON template shown in the next section.
 
 ### Headers JSON
 The `YTMUSIC_COOKIE_JSON` environment variable must contain JSON in the following format:
